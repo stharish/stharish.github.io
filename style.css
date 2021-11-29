@@ -15,16 +15,12 @@ color: white;
 background-color: mediumspringgreen;
 }
 
-p1 {
-font-family: helvectica;
-}
-
 .brushes h2 {
-color: mediumspringgreen;
+background-color: mediumspringgreen;
 }
 .frames h2 {
-    background-color: lightcoral;
+background-color: lightcoral;
     }
 .paint h2 {
-        background-color: skyblue;
+background-color: skyblue;
         }
